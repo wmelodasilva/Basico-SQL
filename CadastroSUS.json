@@ -1,0 +1,26 @@
+[
+  {
+    "CadastroId": 1,
+    "Nome": "Jessica",
+    "SOBRENOME": "Dietoviski",
+    "CPF": "07275495214",
+    "CEP": "71885102",
+    "EMAIL": "JessicaDietoviski@hotmail.com"
+  },
+  {
+    "CadastroId": 2,
+    "Nome": "Lucas",
+    "SOBRENOME": "Moreira",
+    "CPF": "2012153685",
+    "CEP": "58774524",
+    "EMAIL": "l.moreira@gmail.com"
+  },
+  {
+    "CadastroId": 3,
+    "Nome": "Marie",
+    "SOBRENOME": "jour",
+    "CPF": "254896231",
+    "CEP": "5879651",
+    "EMAIL": "Marie_jour@outlook.hotmail.com"
+  }
+]
